@@ -23,6 +23,5 @@ public class ProyectosCompartidos {
         System.out.println("Juan Jose Mesias");
         System.out.println("Luis Herrera");
 
-    }
-    
+    }   
 }
