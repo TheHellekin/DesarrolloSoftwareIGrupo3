@@ -20,14 +20,10 @@ public class ProyectosCompartidos {
         System.out.println("hola como estan");
 
         System.out.println("Bryan");
-    
+
     
 
-        System.out.println("***Alexis***");
-        System.out.println("xD");
-        System.out.println("Juan Jose Mesias");
-        System.out.println("Luis Herrera");
+    }
 
-    }   
 
 }
