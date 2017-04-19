@@ -10,5 +10,7 @@ package proyectoscompartidos;
  * @author PC
  */
 public class Herrera {
-    
+     public static void main(String[] args) {
+        System.out.println("holaaaaa");
+    }
 }

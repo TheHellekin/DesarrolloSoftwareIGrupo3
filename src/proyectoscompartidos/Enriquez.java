@@ -10,5 +10,8 @@ package proyectoscompartidos;
  * @author Invitado
  */
 public class Enriquez {
-    
+    public static void main(String[] args) {
+        System.out.println("holaaaaa");
+    }
+      
 }
